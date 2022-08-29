@@ -1,0 +1,6 @@
+s = [3, 4]
+p = [3, 4]
+c = [3, 4]
+s.append(s)
+p.append([p])
+c.append(c[:])
